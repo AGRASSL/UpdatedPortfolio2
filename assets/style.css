@@ -121,8 +121,8 @@
   
   .card4 {
     display: flex;
-    flex-direction: row-reverse;
-    justify-content: space-between;
+    /* flex-direction: row-reverse; */
+    justify-content: center;
   }
   
   .card4:hover {
