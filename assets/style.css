@@ -138,8 +138,7 @@
     transition: 0.3s;
     border-radius: 10px;
     width: 100%;
-    /* display: flex;
-    align-items: center; */
+
   }
   
   .card-work:hover {
@@ -147,7 +146,6 @@
   }
   
   .container-work {
-    /* width: 100%; */
     padding: 2px 16px;
   }
 
@@ -165,13 +163,7 @@
       justify-items: center;
       width: 100%;
   }
-  
-  /* .grid-item {
-      grid-column-start: 1;
-      grid-column-end: 3;
-      grid-row-start: 1;
-      grid-row-end: 3;
-  } */
+
   a:link {
     color: #4f4846;
     text-decoration: none;
@@ -185,3 +177,13 @@
   p {
     text-align: center;
   }
+
+.readme {
+  width: 575px;
+  height: 200px;
+}
+
+.teamprofile {
+  width: 575px;
+  height: 200px;
+}
